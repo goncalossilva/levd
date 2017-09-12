@@ -29,3 +29,5 @@
 *.app
 
 build/
+
+haskell-driver/.stack-work
