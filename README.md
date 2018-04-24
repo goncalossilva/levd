@@ -8,7 +8,7 @@ liquid cooler.
 This project depends on glog, yaml-cpp and libusb. On fedora:
 
 ```
-$ sudo dnf install yaml-devel glog-devel libusb-devel
+$ sudo dnf install yaml-cpp-devel glog-devel libusb-devel
 ```
 
 ### Building
